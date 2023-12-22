@@ -66,7 +66,7 @@
 
 ## Bug Reporting
 
-All bugs found on the same enivornment - an iPhone 8 Plus, tested on both Wi-Fi and 4G.
+All bugs found on the same environment - an iPhone 8 Plus, tested on both Wi-Fi and 4G.
 
 #### 1. Filtering does not work
 
